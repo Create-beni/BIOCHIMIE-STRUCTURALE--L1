@@ -1164,5 +1164,8 @@
       document.getElementById('btnBackToDash').addEventListener('click', ()=> show('dashboard'));
     })();
   </script>
+  <script src="https://cdn.kkiapay.me/k.js">
+    <kkiapay-widget  amount="1" key="5cf3b630d3c111f0b3b419d776fd2310"
+            callback="https://kkiapay-redirect.com" />
 </body>
 </html>
